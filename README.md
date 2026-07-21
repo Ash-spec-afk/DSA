@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Ash-spec-afk/DSA/tree/master/1260-shift-2d-grid) |
 ## Matrix
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+## Binary Search
+|  |
+| ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
