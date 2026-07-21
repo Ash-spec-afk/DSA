@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ash-spec-afk/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ash-spec-afk/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ash-spec-afk/DSA/tree/master/0993-cousins-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ash-spec-afk/DSA/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ash-spec-afk/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ash-spec-afk/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
