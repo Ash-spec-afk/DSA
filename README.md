@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Ash-spec-afk/DSA/tree/master/1260-shift-2d-grid) |
@@ -53,15 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ash-spec-afk/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
