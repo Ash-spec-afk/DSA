@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ash-spec-afk/DSA/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Ash-spec-afk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ash-spec-afk/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Quickselect
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ash-spec-afk/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ash-spec-afk/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ash-spec-afk/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
